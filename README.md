@@ -21,3 +21,4 @@ To start the unit tests run: <br>
 
 `npm test`
 
+Press 'a' to run all tests
