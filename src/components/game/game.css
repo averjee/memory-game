@@ -1,0 +1,46 @@
+  
+  html * {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .container {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-justify-content: space-evenly;
+    justify-content: space-evenly;
+    width: 70%;
+    margin: 50px auto;
+  }
+
+  img {
+    width: 100px;
+    height: 100px;
+    display: block;
+  }
+
+  #grad {
+    background-color: gainsboro;
+  }
+
+  .flippy-back {
+    top: 40px;
+    left: 35px;
+    box-shadow: none;
+  }
+
+  .flippy-card.flippy-back {
+    border-radius: 10px;
+    width: 120px !important;
+    height: 120px !important;
+  }
+
+  #root {
+    display: -webkit-flex;
+    display: flex;
+  }
+
+  .status {
+    margin: 0 auto;
+  }
