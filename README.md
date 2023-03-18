@@ -2,7 +2,7 @@
 
 Demo: https://memory-game-alnoor.netlify.app/
 
-This mini memory game was developed in React using Redux for state management. <br/>
+This mini memory game was developed in React using Redux for state management. <br/><br/>
 <b>Rules:</b> Find matching pairs of cards.
 
 # Installation Instructions
