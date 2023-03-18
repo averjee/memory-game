@@ -1,5 +1,7 @@
 # Memory Game
 
+Demo: https://memory-game-alnoor.netlify.app/
+
 This mini memory game was developed in React using Redux for state management. 
 
 # Installation Instructions
